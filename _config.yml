@@ -22,11 +22,11 @@ excerpt_separator: "[-----]"
 
 url: https://coolbee.cyou# Required: replace this with your domain
 name: COOLBEE.CYOU # Required: will be displayed on every page's header
-title: Cool-Bee, See You! # Required: site's default title
+title: Hello World # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 世界上不仅有苦B
   - 还有酷B！
-description: "Some short description on your site" # Required
+description: "Cool-Bee, See You!" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
