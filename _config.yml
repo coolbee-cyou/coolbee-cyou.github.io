@@ -20,12 +20,12 @@ layout: post
 permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
-url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+url: https://coolbee.cyou# Required: replace this with your domain
+name: COOLBEE.CYOU # Required: will be displayed on every page's header
+title: Cool-Bee, See You! # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
+  - 世界上不仅有苦B
+  - 还有酷B！
 description: "Some short description on your site" # Required
 
 disqus:
