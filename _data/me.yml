@@ -6,8 +6,9 @@ job: "Debuger"
 hi: "你好！"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
+  - "我喜欢用我的心感受世界的善良"
+  - "我热衷用我的脚步丈量世界的宽广"
+  - "我习惯用我的代码设立世界的规则"
 skills:
   - name: "Programming"
     icon-class: "fa fa-terminal"
