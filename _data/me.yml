@@ -3,8 +3,8 @@
 
 name: "COOL-BEE"
 job: "Debuger"
-hi: "你好，世界！"
-avatar_img: "/assets/img/me.png" # path to your avatar
+hi: "Hello World!"
+avatar_img: "/assets/img/logo_100.png" # path to your avatar
 intro:
   - "我喜欢用我的心感受世界的善良"
   - "我热衷用我的脚步丈量世界的宽广"
