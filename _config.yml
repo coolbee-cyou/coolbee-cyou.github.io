@@ -24,8 +24,8 @@ url: https://coolbee.cyou # Required: replace this with your domain
 name: COOLBEE # Required: will be displayed on every page's header
 title: Hello World # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - The world is not 
-  - only suffering!
+  - Just "cool",
+  - Not "suffering"!
 description: "Cool-Bee, See You!" # Required
 
 disqus:
